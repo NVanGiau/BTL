@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1705702863 source:d:\btvn ktlt\puzzle\puzzle.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+
